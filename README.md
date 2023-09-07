@@ -1,6 +1,6 @@
 # Crowdfunding_ETL Project 2
 
-Using Python and Pandas we built an ETL pipeline and then used regular expresions to extract and transform the data as found in the 
+Using Python and Pandas we built an ETL pipeline and then used regular expressions to extract and transform the data as found in the 
 Jupyter notebook ETL_Mini_Project_Starter_Code.ipynb
 After transforming the data, we created four CSV files (saved in Resources) and used the CSV file data to create an ERD and a table 
 schema (crowdfunding_db_scheman.png, and crowdfunding_db_schema.sql)
